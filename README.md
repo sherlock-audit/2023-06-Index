@@ -90,5 +90,7 @@ ___
 - [index-protocol/contracts/protocol/integration/auction-price/BoundedStepwiseLinearPriceAdapter.sol](index-protocol/contracts/protocol/integration/auction-price/BoundedStepwiseLinearPriceAdapter.sol)
 - [index-protocol/contracts/protocol/integration/auction-price/BoundedStepwiseLogarithmicPriceAdapter.sol](index-protocol/contracts/protocol/integration/auction-price/BoundedStepwiseLogarithmicPriceAdapter.sol)
 - [index-protocol/contracts/protocol/integration/auction-price/ConstantPriceAdapter.sol](index-protocol/contracts/protocol/integration/auction-price/ConstantPriceAdapter.sol)
+- [index-protocol/contracts/protocol/modules/v1/AuctionRebalanceModuleV1.sol](index-protocol/contracts/protocol/modules/v1/AuctionRebalanceModuleV1.sol)
+- [index-protocol/contracts/protocol/modules/v1/BasicIssuanceModule.sol](index-protocol/contracts/protocol/modules/v1/BasicIssuanceModule.sol)
 
 
